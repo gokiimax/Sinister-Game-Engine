@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "render.h": "c",
+        "global.h": "c",
+        "util.h": "c"
+    }
+}

@@ -1,0 +1,1 @@
+build && cls && game
