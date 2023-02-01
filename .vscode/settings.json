@@ -2,6 +2,9 @@
     "files.associations": {
         "render.h": "c",
         "global.h": "c",
-        "util.h": "c"
-    }
+        "util.h": "c",
+        "io.h": "c",
+        "sdl.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
